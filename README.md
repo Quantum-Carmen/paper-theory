@@ -5,7 +5,6 @@ A speculative framework for detecting dimensional bleed-through using antipartic
 ## Author
 Written by Carmen Vinsant 
 First published June 28 2025
-(aka The Paper Magnet Theory)
 
 ## Summary
 
